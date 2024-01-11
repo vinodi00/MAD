@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="SubLabel">222dp</dimen>
+    <dimen name="InputReg">match_parent</dimen>
+    <dimen name="icon1">46dp</dimen>
+    <dimen name="icon1h">54dp</dimen>
+    <dimen name="loginTitleW">222dp</dimen>
+    <dimen name="loginTitleH" />
+    <dimen name="loginTitleHH">76dp</dimen>
+    <dimen name="loginL1w">308dp</dimen>
+    <dimen name="loginL1h" />
+    <dimen name="loginL2w">308dp</dimen>
+    <dimen name="loginL2h">50dp</dimen>
+    <dimen name="eventHeadingW">263dp</dimen>
+    <dimen name="eventI1w">227dp</dimen>
+    <dimen name="eventI1H">176dp</dimen>
+    <dimen name="eventL1w">88dp</dimen>
+    <dimen name="eventL1H">58dp</dimen>
+    <dimen name="event2I1w">344dp</dimen>
+    <dimen name="event2I1h">323dp</dimen>
+    <dimen name="e2L2w">367</dimen>
+    <dimen name="e2l2h">157dp</dimen>
+</resources>
